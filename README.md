@@ -1,2 +1,2 @@
-# kodluyoruzHtml-dev1
+# kodluyoruzHtml-ödev1
 HTML Ödev 1
